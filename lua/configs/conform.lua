@@ -7,12 +7,13 @@ return {
   -- Formatter configurations
   formatters_by_ft = {
     lua = { "stylua" },
-    python = { "black", "isort" },
-    javascript = { { "prettierd", "prettier" } },
+    python = { "black" },
+    javascript = { "prettier"  },
     dart = { "dart_format" },
     -- htmldjango = { "prettier" },
     html = { "prettier" },
     css = { "prettier" },
+    java = { "prettier" },
   },
   -- Custom formatters (optional)
   formatters = {
@@ -23,3 +24,4 @@ return {
     },
   },
 }
+

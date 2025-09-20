@@ -61,3 +61,4 @@ return {
   { "iamcco/markdown-preview.nvim", ft = "markdown" }, -- MD preview
   { "prisma/vim-prisma" }, -- Prisma ORM
 }
+

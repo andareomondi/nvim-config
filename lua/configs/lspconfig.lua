@@ -20,4 +20,4 @@ for _, lsp in ipairs(servers) do
     on_attach = on_attach,  -- Optional: Only if you want keybinds
     capabilities = capabilities,
   })
-end
+end 
