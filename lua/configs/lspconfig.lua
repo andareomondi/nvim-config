@@ -12,7 +12,7 @@ local capabilities = vim.lsp.protocol.make_client_capabilities()
 capabilities = require("cmp_nvim_lsp").default_capabilities(capabilities)
 
 -- Your LSPs (html/css + extras)
-local servers = { "html", "cssls", "ts_ls", "pyright", "eslint", "tailwindcss", } -- Add more as needed
+local servers = { "html", "cssls", "ts_ls", "pyright", } -- Add more as needed
 
 -- Configure each LSP
 for _, lsp in ipairs(servers) do
