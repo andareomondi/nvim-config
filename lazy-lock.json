@@ -9,6 +9,7 @@
   "cmp-nvim-lsp": { "branch": "main", "commit": "bd5a7d6db125d4654b50eeae9f5217f24bb22fd3" },
   "cmp-nvim-lua": { "branch": "main", "commit": "f12408bdb54c39c23e67cab726264c10db33ada8" },
   "cmp_luasnip": { "branch": "master", "commit": "98d9cb5c2c38532bd9bdb481067b20fea8f32e90" },
+  "coc.nvim": { "branch": "release", "commit": "db6c23a19f7d39a2ba6f25c78d2e8ccd8e8db5ef" },
   "conform.nvim": { "branch": "master", "commit": "9d6f881a4047a51c7709223dcf24e967633c6523" },
   "copilot.vim": { "branch": "release", "commit": "da369d90cfd6c396b1d0ec259836a1c7222fb2ea" },
   "dart-vim-plugin": { "branch": "master", "commit": "4bdc04e2540edf90fda2812434c11d19dc04bc8f" },
